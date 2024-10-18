@@ -28,6 +28,6 @@ Feel free to check out my repositories and see what I’m building. I’m always
 
 ---
 
-🌐 **GitHub**: [github.com/yourusername](https://github.com/yourusername)  
+🌐 **GitHub**: [github.com/yourusername](https://github.com/cauvang32)  
 📧 **Email**: contact@quocanh.shop  
 🌍 **Website**: [info.quocanh.shop](https://info.quocanh.shop)
